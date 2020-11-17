@@ -60,6 +60,7 @@ pthread_mutex_t lock = PTHREAD_MUTEX_INITIALIZER, filelock=PTHREAD_MUTEX_INITIAL
 pthread_cond_t empty = PTHREAD_COND_INITIALIZER, fill = PTHREAD_COND_INITIALIZER;
 int* pages_per_file;
 char** allPaths;
+int test;
 /////////////////////////////////////////////////////////
 
 /////////////////STRUCTURES///////////////////////////////
