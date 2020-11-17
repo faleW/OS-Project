@@ -2,7 +2,7 @@
  * NOTE TO STUDENTS: Before you do anything else, please
  * provide your group information here.
  *
- * Group No.: 10 (Join a project group in Canvas)
+ * Group No.:  (Join a project group in Canvas)
  * First member's full name: Tom Chan
  * First member's email address: cctom2-c@my.cityu.edu.hk
  * Second member's full name: (leave blank if none)
